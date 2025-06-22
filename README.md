@@ -1,6 +1,5 @@
 ## Hi there 👋
-My name is Sammy Beard. I'm a fourth-year Computer Science student studying @ the University of Georgia. 
-
+My name is Sammy Beard.
 Feel free to contact me at ```sammybeard2002@gmail.com```
 <!--
 **sam8beard/sam8beard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

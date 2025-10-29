@@ -1,6 +1,7 @@
-
+### [Contact][contact] | [LinkedIn][linkedin]
 ```
-sammybeard2002@gmail.com  ___      
+
+                          ___      
                          /\_ \     
   ___ ___   __  __     __\//\ \    
 /' __` __`\/\ \/\ \  /'__`\\ \ \   
@@ -9,5 +10,6 @@ sammybeard2002@gmail.com  ___
  \/_/\/_/\/_/\/___/  \/____/\/____/
 ```
 
-
+[linkedin]:https://www.linkedin.com/in/sammybeard/
+[contact]:https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sammybeard2002@gmail.com
 

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 My name is Sammy.
 Feel free to contact me at ```sammybeard2002@gmail.com```
 <!--
